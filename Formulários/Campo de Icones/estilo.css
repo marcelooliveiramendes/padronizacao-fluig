@@ -1,0 +1,72 @@
+
+.theme-liquid-icons{
+    width: 100% !important;
+    text-align: center;
+}
+
+.theme-liquid-icons .icon-list{
+    text-align: center;
+}
+
+.theme-liquid-icons{
+    text-align: left;
+}
+
+.icon-list-wrapper{
+    padding: 10px;
+    background-color: white !important;
+}
+
+.theme-liquid-icons .icon-list{
+    padding: 0;
+    height: 300px;
+    overflow: auto;
+}
+
+.theme-liquid-icons li{
+    list-style-type: none;
+    display: inline;
+}
+
+.theme-liquid-icons li span{
+    width: 16%;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.theme-liquid-icons li span:hover{
+    background-color: lightgray
+}
+
+.icon-list-wrapper{
+    border: 1px solid gray;
+    border-radius: 4px;
+}
+
+.icon-list-wrapper{
+    border: 0;
+    padding-top: 0;
+ }
+ 
+.icon-list{
+    border: 1px solid #ccc;
+    border-radius: 0px 0px 6px 6px;
+    overflow: hidden;
+ }
+
+
+#campoIcones{
+    .form-group{
+        margin-bottom: 0px !important;
+    }
+    
+    ::-webkit-scrollbar {
+        width: 8px;
+        background: #F4F4F4;
+        border-radius: 10px;
+    }
+    ::-webkit-scrollbar-thumb {
+        background: #a7a7a7;
+        border-radius: 10px;
+    }
+}
