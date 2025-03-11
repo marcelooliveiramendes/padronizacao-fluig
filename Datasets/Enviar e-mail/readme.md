@@ -4,7 +4,9 @@
 
 Este projeto consiste em um dataset customizado no Fluig que permite o envio automatizado de e-mails com base em regras definidas.
 
+<h2>
 🚀 Funcionalidades
+</h2>
 
 - Geração dinâmica de dados para o envio de e-mails.
 - Personalização do conteúdo dos e-mails.
@@ -12,7 +14,9 @@ Este projeto consiste em um dataset customizado no Fluig que permite o envio aut
 - Suporte a variáveis dinâmicas dentro do corpo do e-mail.
 
 
+<h2>
 🛠 Como utilizar
+</h2>
 
 Para utilizar o dataset, basta criar em seu ambiente o dataset acima e chamado passando a seguinte estrutura como constraint:
 
